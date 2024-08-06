@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<a href="https://github.com/Saylerr/SL-Rat">
+<a href="https://github.com/Saylerr/SL-Rat-Public">
 <img src="images/rat.png" alt="Logo" width="80" height="80">
 </a>
 <h3 align="center">SL-Rat</h3>
